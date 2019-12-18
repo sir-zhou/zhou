@@ -2,6 +2,10 @@
 客户端
 发送请求展示结果
 '''
+#方案1
+ashdfjshfkjhdjfhsjkfhsjfhshfhfjhfstash
+
+
 from socket import *
 import os,sys
 #服务器地址
